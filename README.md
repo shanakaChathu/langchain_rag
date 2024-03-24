@@ -1,1 +1,1 @@
-"# langchain_rag_openai" 
+"# langchain_rag" 
